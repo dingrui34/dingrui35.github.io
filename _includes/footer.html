@@ -1,0 +1,18 @@
+<footer class="site-footer">
+  <div class="wrapper">
+    <div class="social_links">
+      {% for link in site.dash.social_links %}
+      {% if link.fa == true %}
+      <a class="color-{{ link.color }}-hover" href="{{ link.url }}"><i class="fa fa-{{ link.icon }}"></i></a>
+      {% else %}
+      <a class="color-{{ link.color }}-hover" href="{{ link.url }}"><i class="fab fa-{{ link.icon }}"></i></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="credits"><a href="https://github.com/minasrc">minasrc</a> braindump using jekyll-dash theme <i class="fas fa-heart"></i>
+    </div>
+    
+  </div>
+</footer>
+
+
