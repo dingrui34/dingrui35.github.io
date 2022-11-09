@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Thoughts on personal data in the digital age"
-description: I wrote this article as a summary of a .
 tags: personalData privacy technology
 ---
 
