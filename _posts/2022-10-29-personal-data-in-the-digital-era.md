@@ -37,10 +37,10 @@ not only on individuals but on society as a whole. In this digital era where eve
 
 As a future computer scientist, I find we have a responsibility as well when it comes to the kind of work we decide to engage in. We are usually inclined to believe that technology is the ultimate solution to most of humanity’s problems if not all. We feel like we are in a race to take part in the next big breakthrough yet we seldom stop to consider the implications of our actions and we fail to see that technology is rarely the only component to be considered in the process.
 
-[1] : https://www.theguardian.com/world/2013/jun/09/edward-snowden-nsa-whistleblower-surveillance
-[2] : https://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/?sh=140e4bd56668
-[3] : https://www.datanami.com/2020/09/04/10-big-data-statistics-that-will-blow-your-mind/
-[4] : https://www.addictioncenter.com/drugs/social-media-addiction/
-[5] : https://www.statista.com/chart/26272/global-average-daily-time-spent-on-social-media-per-internet-user/
-[6] : https://www.pnas.org/doi/10.1073/pnas.2023301118
-[7] : https://www.lopinion.fr/economie/coronavirus-vs-rgpd-echec-et-mat-la-tribune-dandre-loesekrug-pietri
+[1]: https://www.theguardian.com/world/2013/jun/09/edward-snowden-nsa-whistleblower-surveillance
+[2]: https://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/?sh=140e4bd56668
+[3]: https://www.datanami.com/2020/09/04/10-big-data-statistics-that-will-blow-your-mind/
+[4]: https://www.addictioncenter.com/drugs/social-media-addiction/
+[5]: https://www.statista.com/chart/26272/global-average-daily-time-spent-on-social-media-per-internet-user/
+[6]: https://www.pnas.org/doi/10.1073/pnas.2023301118
+[7]: https://www.lopinion.fr/economie/coronavirus-vs-rgpd-echec-et-mat-la-tribune-dandre-loesekrug-pietri
