@@ -6,7 +6,7 @@ $color-foreground-dark: lighten($color-background-dark, 30%);
 $color-background-light: ##DAE4ED;
 $color-background-lighter: lighten($color-background-light, 7%);
 $color-foreground-dark: #FFFFFF;
-$color-foreground-darker: #FFFFFF;
+$color-foreground-darker: lighten;
 
 $color-pink: #F24784;
 $color-red: #FC4957;
