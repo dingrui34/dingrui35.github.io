@@ -1,6 +1,6 @@
 ---
 title: 'RFML-Driven Spectrum Prediction: A Novel Model-Enabled Autoregressive Network'
-date: 
+date: '2015-05-02T19:55:13+00:00'
 author: dingrui
 layout: post
 redirect_from:
