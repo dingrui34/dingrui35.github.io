@@ -1,7 +1,10 @@
 title: Rui Ding
 author: Rui Ding
 description: > # this means to ignore newlines until "show_exerpts:"
-  Rui Ding received the B.S degree in Communication Engineering from NUIST, Jiangsu, China, in 2020. He received his M. S. E degree in Information and Communication Engineering in 2023. 04 in NUAA. He is currently working towards the Ph.D. degree in NUAA, Jiangsu, China, supervised by Prof. Fuhui Zhou and Prof. Qihui Wu. His current research interests include intelligent spectrum cognitive and spectrum decision, resource optimization.
+  Rui Ding received the B.S degree in Communication Engineering from NUIST, Jiangsu, China, in 2020. 
+  He received his M. S. E degree in Information and Communication Engineering in 2023. 04 in NUAA. 
+  He is currently working towards the Ph.D. degree in NUAA, Jiangsu, China, supervised by Prof. Fuhui Zhou and Prof. Qihui Wu. 
+  His current research interests include intelligent spectrum cognitive and spectrum decision, resource optimization.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 paginate: 5
